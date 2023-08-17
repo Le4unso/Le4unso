@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Le4unso</h1>
-<h3 align="center">Talking potato</h3>
 
 - 🔭 I’m currently studing at **Mobile Communication Lab Kyunghee Univ.**
 
